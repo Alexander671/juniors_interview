@@ -1,2 +1,4 @@
 __pycache__
 .flake8
+.pytest_cache
+venv/
