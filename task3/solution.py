@@ -27,7 +27,6 @@ def appearance(intervals: dict[str, list[int]]) -> int:
                 i += 1
             else:
                 j += 1
-        print(result)
         return result
 
     # Преобразуем интервалы ученика и учителя
